@@ -4,3 +4,5 @@
 使用了cookie。
 
 (然而我根本不会写javascript >_>)
+
+[博客](http://r64.is-programmer.com/posts/212239.html)
