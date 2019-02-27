@@ -4,7 +4,8 @@
 // @version      0.2
 // @description  Fuck zhihu!
 // @author       r_64
-// @match        https://*.zhihu.com/*
+// @include      https://*.zhihu.com/*
+// @exclude      https://zhuanlan.zhihu.com/*
 // @grant        none
 // ==/UserScript==
 (function() {
